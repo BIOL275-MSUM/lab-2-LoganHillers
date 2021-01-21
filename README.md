@@ -1,7 +1,7 @@
 Lab 2: Introduction to RStudio
 ================
 Logan Hillers
-2021-01-19
+2021-01-21
 
 Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at
 MSUM.
@@ -63,7 +63,7 @@ sessioninfo::session_info(c("tidyverse"))
     ##  collate  English_United States.1252  
     ##  ctype    English_United States.1252  
     ##  tz       America/Chicago             
-    ##  date     2021-01-19                  
+    ##  date     2021-01-21                  
     ## 
     ## - Packages -------------------------------------------------------------------
     ##  package      * version  date       lib source        

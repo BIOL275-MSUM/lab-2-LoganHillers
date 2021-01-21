@@ -9,17 +9,17 @@
 x<-c(6.05,4.89,3.32,4.93,5.25,5.04,4.91,2.84,5.60,5.34)
 x
 
-length(x)  10
-median(x)  4.985
-mean(x)    4.817
-sd(x)      0.9899725
+length(x)  
+median(x)  
+mean(x)    
+sd(x)      
 
-n <- length(x) 10
+n <- length(x) 
 n
 
-sem <- sd(x) / sqrt(n) 0.31305679285627
+sem <- sd(x) / sqrt(n) 
 sem
 
-mean(x) + 1.96 * sem                             5.430591
-mean(x) - 1.96 * sem                             4.203409
-c(mean(x) + 1.96 * sem, mean(k) - 1.96 * sem)    5.430591 4.203409
+mean(x) + 1.96 * sem                             
+mean(x) - 1.96 * sem                             
+c(mean(x) + 1.96 * sem, mean(k) - 1.96 * sem)    
